@@ -25,18 +25,3 @@ body {
 
 .pro{
   text-decoration: underline;
-}
-.middle-container{
-  background-color: red;
-  left: 25%;
-  width: 200px;
-  height: 200px;
-  bottom: 55%;
-}
-.bottom-container{
-  background-color: blue;
-  left: 25%;
-  width: 200px;
-  height: 200px;
-  bottom: 55%;
-}
